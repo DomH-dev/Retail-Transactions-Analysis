@@ -1,27 +1,21 @@
-# Retail-Transactions-Analysis
+# Retail Ratings Analysis
 
+## Project Overview
+This project delves into a retail dataset to analyze customer ratings across various product categories. The aim is to identify key trends in customer satisfaction and provide actionable insights for improving retail strategies.
+
+## Data Source
+The dataset includes customer ratings for multiple product categories within a retail environment.
 The dataset being explored is from Kaggle: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-## Project Overview:
-1. **Data Cleaning and Preparation**: 
-    - Remove any inconsistencies or inaccuracies.
-2. **Descriptive Statistics**: 
-    - Calculate averages, ranges, and other summary statistics.
-3. **Data Visualization**: 
-    - Create visual representations of data to identify trends and patterns.
-4. **Outlier Detection and Assumption Testing**: 
-    - Identify any anomalies and verify assumptions.
-5. **Data Segmentation**: 
-    - Group data into categories for more detailed analysis.
-6. **Summary of Findings**: 
-    - Present the key insights and conclusions.
+## Key Findings
+- Certain product categories consistently score higher in customer ratings, suggesting greater customer satisfaction.
+- Visualization of rating distributions helps identify categories with potential quality or service issues.
+- Mean ratings calculations offer a straightforward metric for comparing customer satisfaction across categories.
 
-### Extra tasks:
-**Review Sentiment Analysis**: 
-- Analyze the sentiment of customer reviews.
-
-## Dataset Description:
-
+## Technologies Used
+- Python
+- Libraries: Pandas, Matplotlib, Seaborn
+- 
 ### About the Dataset
 This dataset contains information about over 1,000 Amazon products' ratings and reviews, as listed on the official Amazon website.
 
